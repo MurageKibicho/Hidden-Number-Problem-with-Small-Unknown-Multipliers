@@ -2,6 +2,16 @@
 
 HNP-SUM is the challenge of recovering small unknown multipliers (not unknown keys) using a lattice approach. We code the paper in Python.
 
+##### Python requires fpylll and cysignals. HNF is solved in Sage math
+## Getting Started
+Either 
+- Follow the [step-by-step Substack guide](https://leetarxiv.substack.com/p/hnp-sum)
+
+Or
+
+- Clone the repo and run `jupyter notebook`
+- Run on [Google Colab](https://colab.research.google.com/drive/1uZxgWsWiYlhFem1jMHH8v9yfIAtU08b9?usp=sharing)
+
 <div align="center">
 <img src="https://github.com/MurageKibicho/Hidden-Number-Problem-with-Small-Unknown-Multipliers/blob/main/Images/Abstract.png?raw=true:" alt="HNP-SUM Paper Abstract" width=400>
 </div>
